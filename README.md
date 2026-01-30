@@ -17,6 +17,5 @@ This program simulates the effect of a moving vehicular load on a simply support
 	4.3 - Maximum bending moment(kN-m) at point of interest and corresponding wheel load position
 	4.4 - Maximum shear force(kN) at point of interest and corresponding wheel load position
 
-5. 🔧 Notes
-	5.1 - All dimensional inputs (span length, spacing list) must be rounded to the nearest 0.1 meters.
+5. 🔧 Notes: All dimensional inputs (span length, spacing list) must be rounded to the nearest 0.1 meters.
 
