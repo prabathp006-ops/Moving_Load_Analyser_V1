@@ -2,3 +2,4 @@ pandas
 numpy
 matplotlib
 ipywidgets
+voila>=0.5.0
